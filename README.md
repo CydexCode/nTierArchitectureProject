@@ -40,4 +40,6 @@ In conclusion, the article showcases a basic implementation of a Todo list appli
 
 Thank you for your support!
 
+### Need a Star for this Repository ⭐
+
 🚀 Follow CydexCode on YouTube , TikTok , Linkedin , Facebook , and Telegram for more exciting content! 🎉📱💻📢
